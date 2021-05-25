@@ -1,3 +1,6 @@
+![Shreyas' GitHub Banner](newpic.jpg)]
+
+
 ### Hi there 👋
 
 <!--
@@ -20,3 +23,17 @@
 
 ![](https://komarev.com/ghpvc/?username=shreyaspj20)
 
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
+
+
+## Social Media handles.
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/pj_shreyas)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shreyas-pj-39523619b/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-informational?style=flat&logo=kaggle&logoColor=white&color=1CA2F1)](https://www.kaggle.com/shreyaspj)
+
+Hope you find me there :)
