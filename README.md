@@ -1,4 +1,4 @@
-![Shreyas' GitHub Banner](newpic.jpg)]
+![Shreyas' GitHub Banner](newpic.jpg)
 
 
 ### Hi there 👋
