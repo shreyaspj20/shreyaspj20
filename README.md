@@ -6,11 +6,11 @@
 <!--
 **shreyaspj20/shreyaspj20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on building data models for everyday use😆😆😆😆😆
+- 🌟 I’m currently working on building data models for everyday use🧑‍💻🧑‍💻
 
-- 🌱 I’m currently learning how to develop efficient models using new algorithms👲👲👲
+- 🌟 I’m currently learning how to develop efficient models using new algorithms🕵️🕵️
 
-- 👯 I’m looking to collaborate on projects related to Computer Vision, NLP ,ML domains.📷📷📞📞📞
+- 🌟 I’m looking to collaborate on projects related to Computer Vision,ML domains.📷📞
 
 ![Alt Text](https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif)
 
